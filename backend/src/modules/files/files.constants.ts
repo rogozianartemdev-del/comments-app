@@ -1,0 +1,1 @@
+export const MAX_FILES_PER_COMMENT = 5;
