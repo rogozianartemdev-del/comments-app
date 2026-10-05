@@ -17,10 +17,11 @@ Built for the dZENcode test assignment, Junior+ level with some Middle-level ele
 9. [Key flows](#key-flows)
 10. [Security](#security)
 11. [Getting started from scratch](#getting-started-from-scratch)
-12. [Environment variables](#environment-variables)
-13. [DB schema for MySQL Workbench](#db-schema-for-mysql-workbench)
-14. [Verification](#verification)
-15. [Decisions and limitations](#decisions-and-limitations)
+12. [Live demo](#live-demo)[Live demo](#live-demo)
+13. [Environment variables](#environment-variables)
+14. [DB schema for MySQL Workbench](#db-schema-for-mysql-workbench)
+15. [Verification](#verification)
+16. [Decisions and limitations](#decisions-and-limitations)
 
 ## Features
 
@@ -391,6 +392,9 @@ Username: demo_user
 Password: password123
 ```
 
+## Live demo
+
+The project is also deployed and available at: http://16.16.159.244
 
 ## Environment variables
 
